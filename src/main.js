@@ -8,6 +8,7 @@ import HistoryView from './views/HistoryView.vue'
 import ClassifyView from './views/ClassifyView.vue'
 import CounterView from './views/CounterView.vue'
 import HelpView from './views/HelpView.vue'
+import ProductsView from './views/ProductsView.vue'
 import NotFoundView from './views/NotFoundView.vue'
 import './styles.css'
 
@@ -18,6 +19,7 @@ const routes = [
   { path: '/brandStory/classify', name: 'classify', component: ClassifyView },
   { path: '/history', name: 'history', component: HistoryView },
   { path: '/counter', name: 'counter', component: CounterView },
+  { path: '/products', name: 'products', component: ProductsView },
   { path: '/help', name: 'help', component: HelpView },
   { path: '/:pathMatch(.*)*', name: 'not-found', component: NotFoundView },
 ]

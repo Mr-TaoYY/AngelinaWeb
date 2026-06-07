@@ -1,0 +1,1487 @@
+[
+    {
+        "id":  1,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "清洁/卸妆",
+        "name":  "S103水润净颜卸妆油",
+        "license":  "妆",
+        "spec":  "150ml",
+        "price":  320
+    },
+    {
+        "id":  2,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "清洁/卸妆",
+        "name":  "S113舒缓清润卸妆水",
+        "license":  "妆",
+        "spec":  "150ml",
+        "price":  268
+    },
+    {
+        "id":  3,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "清洁/卸妆",
+        "name":  "V113清润焕颜卸妆水",
+        "license":  "妆",
+        "spec":  "500ml",
+        "price":  480
+    },
+    {
+        "id":  4,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "清洁/卸妆",
+        "name":  "S53净颜透润洁面乳",
+        "license":  "妆",
+        "spec":  "120ml",
+        "price":  218
+    },
+    {
+        "id":  5,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "清洁/卸妆",
+        "name":  "S3清透焕亮洁面乳",
+        "license":  "妆",
+        "spec":  "120ml",
+        "price":  320
+    },
+    {
+        "id":  6,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "清洁/卸妆",
+        "name":  "V3晶蓝清透舒颜洁面乳",
+        "license":  "妆",
+        "spec":  "500ml",
+        "price":  600
+    },
+    {
+        "id":  7,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "化妆水/精华水",
+        "name":  "ES18医用透明质酸纳修护液",
+        "license":  "械",
+        "spec":  "50ml",
+        "price":  198
+    },
+    {
+        "id":  8,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "化妆水/精华水",
+        "name":  "ES188医用透明质酸纳修护液",
+        "license":  "械",
+        "spec":  "120ml",
+        "price":  268
+    },
+    {
+        "id":  9,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "化妆水/精华水",
+        "name":  "ES188plus医用透明质酸钠修护液",
+        "license":  "械",
+        "spec":  "300ml",
+        "price":  398
+    },
+    {
+        "id":  10,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "化妆水/精华水",
+        "name":  "CS8润颜多肽精粹水",
+        "license":  "妆",
+        "spec":  "100ml",
+        "price":  298
+    },
+    {
+        "id":  11,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "化妆水/精华水",
+        "name":  "S6沁舒莹润精粹水",
+        "license":  "妆",
+        "spec":  "120ml",
+        "price":  320
+    },
+    {
+        "id":  12,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "化妆水/精华水",
+        "name":  "S8保湿抗皱喷雾",
+        "license":  "妆",
+        "spec":  "15ml",
+        "price":  198
+    },
+    {
+        "id":  13,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "化妆水/精华水",
+        "name":  "S19焕颜紧致精华喷雾",
+        "license":  "妆",
+        "spec":  "36ml",
+        "price":  688
+    },
+    {
+        "id":  14,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "化妆水/精华水",
+        "name":  "EV6医用液体敷料（保湿舒缓修护水）",
+        "license":  "械",
+        "spec":  "500ml",
+        "price":  600
+    },
+    {
+        "id":  15,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "精华液",
+        "name":  "ES1透明质酸钠液体敷料",
+        "license":  "械",
+        "spec":  "30g",
+        "price":  520
+    },
+    {
+        "id":  16,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "精华液",
+        "name":  "ES12医用皮肤修护敷料（传明酸精华液）",
+        "license":  "械",
+        "spec":  "30ml",
+        "price":  520
+    },
+    {
+        "id":  17,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "精华液",
+        "name":  "ES66医用皮肤护理液（褪红舒敏精华液）",
+        "license":  "械",
+        "spec":  "30ml",
+        "price":  520
+    },
+    {
+        "id":  18,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "精华液",
+        "name":  "S222美白祛斑精华液",
+        "license":  "妆",
+        "spec":  "30ml",
+        "price":  520
+    },
+    {
+        "id":  19,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "精华液",
+        "name":  "S222s美白祛斑精华液",
+        "license":  "妆",
+        "spec":  "15ml",
+        "price":  268
+    },
+    {
+        "id":  20,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "精华液",
+        "name":  "S9焕亮精华液",
+        "license":  "妆",
+        "spec":  "30ml",
+        "price":  520
+    },
+    {
+        "id":  21,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "精华液",
+        "name":  "GS966医用皮肤修护敷料（褪红舒敏精华液）",
+        "license":  "械",
+        "spec":  "15ml",
+        "price":  298
+    },
+    {
+        "id":  22,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "精华液",
+        "name":  "GS906医用皮肤修护敷料（抑痘修护精华液）",
+        "license":  "械",
+        "spec":  "15ml",
+        "price":  298
+    },
+    {
+        "id":  23,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "精华液",
+        "name":  "GS912医用皮肤护理液（传明酸精华液）",
+        "license":  "械",
+        "spec":  "10ml",
+        "price":  268
+    },
+    {
+        "id":  24,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "精华液",
+        "name":  "GS910透明质酸钠液体敷料",
+        "license":  "械",
+        "spec":  "10ml",
+        "price":  268
+    },
+    {
+        "id":  25,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "精华液",
+        "name":  "EV101透明质酸钠液体敷料",
+        "license":  "械",
+        "spec":  "100g",
+        "price":  880
+    },
+    {
+        "id":  26,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "精华液",
+        "name":  "ES601医用透明质酸钠修护敷料",
+        "license":  "械",
+        "spec":  "100g",
+        "price":  880
+    },
+    {
+        "id":  27,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "精华液",
+        "name":  "EV112医用皮肤护理液（传明酸精华液）",
+        "license":  "械",
+        "spec":  "100ml",
+        "price":  880
+    },
+    {
+        "id":  28,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "精华液",
+        "name":  "S612医用液体敷料（传明酸净颜精华液）",
+        "license":  "械",
+        "spec":  "100ml",
+        "price":  880
+    },
+    {
+        "id":  29,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "精华液",
+        "name":  "ES666医用液体敷料（褪红舒敏精华液）",
+        "license":  "械",
+        "spec":  "100ml",
+        "price":  880
+    },
+    {
+        "id":  30,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "精华液",
+        "name":  "ES609医用皮肤护理液（塑颜抗皱精华液）",
+        "license":  "械",
+        "spec":  "100ml",
+        "price":  1280
+    },
+    {
+        "id":  31,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "精华液",
+        "name":  "ES619医用皮肤护理液（焕采赋活VC精华液）",
+        "license":  "械",
+        "spec":  "100ml",
+        "price":  880
+    },
+    {
+        "id":  32,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "精华液",
+        "name":  "V102焕颜蕴能精华液",
+        "license":  "妆",
+        "spec":  "100ml",
+        "price":  880
+    },
+    {
+        "id":  33,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "精华液",
+        "name":  "V109胶原蛋白紧致精华液",
+        "license":  "妆",
+        "spec":  "100ml",
+        "price":  880
+    },
+    {
+        "id":  34,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "精华液",
+        "name":  "V119焕亮精华液",
+        "license":  "妆",
+        "spec":  "100ml",
+        "price":  880
+    },
+    {
+        "id":  35,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "精华液",
+        "name":  "EV101PLUS医用液体敷料",
+        "license":  "械",
+        "spec":  "500ML",
+        "price":  3280
+    },
+    {
+        "id":  36,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "精华液",
+        "name":  "ES601PLUS医用液体敷料",
+        "license":  "械",
+        "spec":  "500ML",
+        "price":  3280
+    },
+    {
+        "id":  37,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "精华液",
+        "name":  "EV112PLUS医用皮肤护理液（传明酸精华液）",
+        "license":  "械",
+        "spec":  "500ml",
+        "price":  3280
+    },
+    {
+        "id":  38,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "精华液",
+        "name":  "ES612PLUS医用皮肤护理液（传明酸净颜精华液）",
+        "license":  "械",
+        "spec":  "500ml",
+        "price":  3280
+    },
+    {
+        "id":  39,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "精华液",
+        "name":  "S609Plus塑颜抗皱精华液",
+        "license":  "妆",
+        "spec":  "500ml",
+        "price":  3280
+    },
+    {
+        "id":  40,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "精华液",
+        "name":  "S619PlusVC焕采精华液",
+        "license":  "妆",
+        "spec":  "500ml",
+        "price":  3280
+    },
+    {
+        "id":  41,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "乳液/面霜",
+        "name":  "ES181医用皮肤创面敷料",
+        "license":  "械",
+        "spec":  "200g",
+        "price":  880
+    },
+    {
+        "id":  42,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "乳液/面霜",
+        "name":  "ES181plus医用皮肤创面敷料",
+        "license":  "械",
+        "spec":  "500g",
+        "price":  1680
+    },
+    {
+        "id":  43,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "乳液/面霜",
+        "name":  "ES28医用皮肤创面敷料",
+        "license":  "械",
+        "spec":  "50g",
+        "price":  520
+    },
+    {
+        "id":  44,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "乳液/面霜",
+        "name":  "ES928医用重组III型人源化胶原蛋白软膏",
+        "license":  "械",
+        "spec":  "25g",
+        "price":  298
+    },
+    {
+        "id":  45,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "乳液/面霜",
+        "name":  "SR68舒润保湿特护霜",
+        "license":  "妆",
+        "spec":  "30g",
+        "price":  398
+    },
+    {
+        "id":  46,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "乳液/面霜",
+        "name":  "S909紧塑弹力菁纯霜",
+        "license":  "妆",
+        "spec":  "50g",
+        "price":  680
+    },
+    {
+        "id":  47,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "乳液/面霜",
+        "name":  "S91保湿赋能精华乳",
+        "license":  "妆",
+        "spec":  "50g",
+        "price":  520
+    },
+    {
+        "id":  48,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "乳液/面霜",
+        "name":  "S191保湿赋能精华乳",
+        "license":  "妆",
+        "spec":  "200ml",
+        "price":  800
+    },
+    {
+        "id":  49,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "乳液/面霜",
+        "name":  "V5保湿舒柔按摩霜",
+        "license":  "妆",
+        "spec":  "500ML",
+        "price":  600
+    },
+    {
+        "id":  50,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "眼霜/眼部精华",
+        "name":  "S88抗皱赋活眼霜",
+        "license":  "妆",
+        "spec":  "25g",
+        "price":  520
+    },
+    {
+        "id":  51,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "防晒/妆前",
+        "name":  "S32隐形润色隔离霜",
+        "license":  "妆",
+        "spec":  "50g",
+        "price":  520
+    },
+    {
+        "id":  52,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "防晒/妆前",
+        "name":  "S32隐形润色隔离霜",
+        "license":  "妆",
+        "spec":  "25g",
+        "price":  328
+    },
+    {
+        "id":  53,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "防晒/妆前",
+        "name":  "S62清透莹润隔离乳",
+        "license":  "妆",
+        "spec":  "50g",
+        "price":  520
+    },
+    {
+        "id":  54,
+        "majorCategory":  "脸部护理",
+        "minorCategory":  "防晒/妆前",
+        "name":  "S62s清透莹润隔离乳",
+        "license":  "妆",
+        "spec":  "25g",
+        "price":  368
+    },
+    {
+        "id":  55,
+        "majorCategory":  "肌肤需求",
+        "minorCategory":  "澎润（修护）",
+        "name":  "ES18医用透明质酸纳修护液",
+        "license":  "械",
+        "spec":  "50ml",
+        "price":  198
+    },
+    {
+        "id":  56,
+        "majorCategory":  "肌肤需求",
+        "minorCategory":  "澎润（修护）",
+        "name":  "ES188医用透明质酸纳修护液",
+        "license":  "械",
+        "spec":  "120ml",
+        "price":  268
+    },
+    {
+        "id":  57,
+        "majorCategory":  "肌肤需求",
+        "minorCategory":  "澎润（修护）",
+        "name":  "ES188plus医用透明质酸钠修护液",
+        "license":  "械",
+        "spec":  "300ml",
+        "price":  398
+    },
+    {
+        "id":  58,
+        "majorCategory":  "肌肤需求",
+        "minorCategory":  "澎润（修护）",
+        "name":  "S6沁舒莹润精粹水",
+        "license":  "妆",
+        "spec":  "120ml",
+        "price":  320
+    },
+    {
+        "id":  59,
+        "majorCategory":  "肌肤需求",
+        "minorCategory":  "澎润（修护）",
+        "name":  "EV6医用液体敷料（保湿舒缓修护水）",
+        "license":  "械",
+        "spec":  "500ml",
+        "price":  600
+    },
+    {
+        "id":  60,
+        "majorCategory":  "肌肤需求",
+        "minorCategory":  "澎润（修护）",
+        "name":  "ES66医用皮肤护理液（褪红舒敏精华液）",
+        "license":  "械",
+        "spec":  "30ml",
+        "price":  520
+    },
+    {
+        "id":  61,
+        "majorCategory":  "肌肤需求",
+        "minorCategory":  "澎润（修护）",
+        "name":  "GS966医用皮肤修护敷料（褪红舒敏精华液）",
+        "license":  "械",
+        "spec":  "15ml",
+        "price":  298
+    },
+    {
+        "id":  62,
+        "majorCategory":  "肌肤需求",
+        "minorCategory":  "澎润（修护）",
+        "name":  "GS906医用皮肤修护敷料（抑痘修护精华液）",
+        "license":  "械",
+        "spec":  "15ml",
+        "price":  298
+    },
+    {
+        "id":  63,
+        "majorCategory":  "肌肤需求",
+        "minorCategory":  "澎润（修护）",
+        "name":  "GS910透明质酸钠液体敷料",
+        "license":  "械",
+        "spec":  "10ml",
+        "price":  268
+    },
+    {
+        "id":  64,
+        "majorCategory":  "肌肤需求",
+        "minorCategory":  "澎润（修护）",
+        "name":  "EV101透明质酸钠液体敷料",
+        "license":  "械",
+        "spec":  "100g",
+        "price":  880
+    },
+    {
+        "id":  65,
+        "majorCategory":  "肌肤需求",
+        "minorCategory":  "澎润（修护）",
+        "name":  "ES666医用液体敷料（褪红舒敏精华液）",
+        "license":  "械",
+        "spec":  "100ml",
+        "price":  880
+    },
+    {
+        "id":  66,
+        "majorCategory":  "肌肤需求",
+        "minorCategory":  "澎润（修护）",
+        "name":  "V102焕颜蕴能精华液",
+        "license":  "妆",
+        "spec":  "100ml",
+        "price":  880
+    },
+    {
+        "id":  67,
+        "majorCategory":  "肌肤需求",
+        "minorCategory":  "澎润（修护）",
+        "name":  "EV101PLUS医用液体敷料",
+        "license":  "械",
+        "spec":  "500ML",
+        "price":  3280
+    },
+    {
+        "id":  68,
+        "majorCategory":  "肌肤需求",
+        "minorCategory":  "澎润（修护）",
+        "name":  "ES181医用皮肤创面敷料",
+        "license":  "械",
+        "spec":  "200g",
+        "price":  880
+    },
+    {
+        "id":  69,
+        "majorCategory":  "肌肤需求",
+        "minorCategory":  "澎润（修护）",
+        "name":  "ES181plus医用皮肤创面敷料",
+        "license":  "械",
+        "spec":  "500g",
+        "price":  1680
+    },
+    {
+        "id":  70,
+        "majorCategory":  "肌肤需求",
+        "minorCategory":  "澎润（修护）",
+        "name":  "ES28医用皮肤创面敷料",
+        "license":  "械",
+        "spec":  "50g",
+        "price":  520
+    },
+    {
+        "id":  71,
+        "majorCategory":  "肌肤需求",
+        "minorCategory":  "澎润（修护）",
+        "name":  "ES928医用重组III型人源化胶原蛋白软膏",
+        "license":  "械",
+        "spec":  "25g",
+        "price":  298
+    },
+    {
+        "id":  72,
+        "majorCategory":  "肌肤需求",
+        "minorCategory":  "澎润（修护）",
+        "name":  "SR68舒润保湿特护霜",
+        "license":  "妆",
+        "spec":  "30g",
+        "price":  398
+    },
+    {
+        "id":  73,
+        "majorCategory":  "肌肤需求",
+        "minorCategory":  "抗老保养",
+        "name":  "CS8润颜多肽精粹水",
+        "license":  "妆",
+        "spec":  "100ml",
+        "price":  298
+    },
+    {
+        "id":  74,
+        "majorCategory":  "肌肤需求",
+        "minorCategory":  "抗老保养",
+        "name":  "S8保湿抗皱喷雾",
+        "license":  "妆",
+        "spec":  "15ml",
+        "price":  198
+    },
+    {
+        "id":  75,
+        "majorCategory":  "肌肤需求",
+        "minorCategory":  "抗老保养",
+        "name":  "S19焕颜紧致精华喷雾",
+        "license":  "妆",
+        "spec":  "36ml",
+        "price":  688
+    },
+    {
+        "id":  76,
+        "majorCategory":  "肌肤需求",
+        "minorCategory":  "抗老保养",
+        "name":  "ES609医用皮肤护理液（塑颜抗皱精华液）",
+        "license":  "械",
+        "spec":  "100ml",
+        "price":  1280
+    },
+    {
+        "id":  77,
+        "majorCategory":  "肌肤需求",
+        "minorCategory":  "抗老保养",
+        "name":  "V109胶原蛋白紧致精华液",
+        "license":  "妆",
+        "spec":  "100ml",
+        "price":  880
+    },
+    {
+        "id":  78,
+        "majorCategory":  "肌肤需求",
+        "minorCategory":  "抗老保养",
+        "name":  "S609Plus塑颜抗皱精华液",
+        "license":  "妆",
+        "spec":  "500ml",
+        "price":  3280
+    },
+    {
+        "id":  79,
+        "majorCategory":  "肌肤需求",
+        "minorCategory":  "抗老保养",
+        "name":  "S909紧塑弹力菁纯霜",
+        "license":  "妆",
+        "spec":  "50g",
+        "price":  680
+    },
+    {
+        "id":  80,
+        "majorCategory":  "肌肤需求",
+        "minorCategory":  "抗老保养",
+        "name":  "S88抗皱赋活眼霜",
+        "license":  "妆",
+        "spec":  "25g",
+        "price":  520
+    },
+    {
+        "id":  81,
+        "majorCategory":  "肌肤需求",
+        "minorCategory":  "净亮白",
+        "name":  "ES12医用皮肤修护敷料（传明酸精华液）",
+        "license":  "械",
+        "spec":  "30ml",
+        "price":  520
+    },
+    {
+        "id":  82,
+        "majorCategory":  "肌肤需求",
+        "minorCategory":  "净亮白",
+        "name":  "S222美白祛斑精华液",
+        "license":  "妆",
+        "spec":  "30ml",
+        "price":  520
+    },
+    {
+        "id":  83,
+        "majorCategory":  "肌肤需求",
+        "minorCategory":  "净亮白",
+        "name":  "S222s美白祛斑精华液",
+        "license":  "妆",
+        "spec":  "15ml",
+        "price":  268
+    },
+    {
+        "id":  84,
+        "majorCategory":  "肌肤需求",
+        "minorCategory":  "净亮白",
+        "name":  "S9焕亮精华液",
+        "license":  "妆",
+        "spec":  "30ml",
+        "price":  520
+    },
+    {
+        "id":  85,
+        "majorCategory":  "肌肤需求",
+        "minorCategory":  "净亮白",
+        "name":  "GS912医用皮肤护理液（传明酸精华液）",
+        "license":  "械",
+        "spec":  "10ml",
+        "price":  268
+    },
+    {
+        "id":  86,
+        "majorCategory":  "肌肤需求",
+        "minorCategory":  "净亮白",
+        "name":  "EV112医用皮肤护理液（传明酸精华液）",
+        "license":  "械",
+        "spec":  "100ml",
+        "price":  880
+    },
+    {
+        "id":  87,
+        "majorCategory":  "肌肤需求",
+        "minorCategory":  "净亮白",
+        "name":  "S612医用液体敷料（传明酸净颜精华液）",
+        "license":  "械",
+        "spec":  "100ml",
+        "price":  880
+    },
+    {
+        "id":  88,
+        "majorCategory":  "肌肤需求",
+        "minorCategory":  "净亮白",
+        "name":  "ES619医用皮肤护理液（焕采赋活VC精华液）",
+        "license":  "械",
+        "spec":  "100ml",
+        "price":  880
+    },
+    {
+        "id":  89,
+        "majorCategory":  "肌肤需求",
+        "minorCategory":  "净亮白",
+        "name":  "V119焕亮精华液",
+        "license":  "妆",
+        "spec":  "100ml",
+        "price":  880
+    },
+    {
+        "id":  90,
+        "majorCategory":  "肌肤需求",
+        "minorCategory":  "净亮白",
+        "name":  "EV112PLUS医用皮肤护理液（传明酸精华液）",
+        "license":  "械",
+        "spec":  "500ml",
+        "price":  3280
+    },
+    {
+        "id":  91,
+        "majorCategory":  "肌肤需求",
+        "minorCategory":  "净亮白",
+        "name":  "ES612PLUS医用皮肤护理液（传明酸净颜精华液）",
+        "license":  "械",
+        "spec":  "500ml",
+        "price":  3280
+    },
+    {
+        "id":  92,
+        "majorCategory":  "肌肤需求",
+        "minorCategory":  "净亮白",
+        "name":  "S619PlusVC焕采精华液",
+        "license":  "妆",
+        "spec":  "500ml",
+        "price":  3280
+    },
+    {
+        "id":  93,
+        "majorCategory":  "肌肤需求",
+        "minorCategory":  "保湿",
+        "name":  "ES1透明质酸钠液体敷料",
+        "license":  "械",
+        "spec":  "30g",
+        "price":  520
+    },
+    {
+        "id":  94,
+        "majorCategory":  "肌肤需求",
+        "minorCategory":  "保湿",
+        "name":  "ES601医用透明质酸钠修护敷料",
+        "license":  "械",
+        "spec":  "100g",
+        "price":  880
+    },
+    {
+        "id":  95,
+        "majorCategory":  "肌肤需求",
+        "minorCategory":  "保湿",
+        "name":  "ES601PLUS医用液体敷料",
+        "license":  "械",
+        "spec":  "500ML",
+        "price":  3280
+    },
+    {
+        "id":  96,
+        "majorCategory":  "肌肤需求",
+        "minorCategory":  "保湿",
+        "name":  "S91保湿赋能精华乳",
+        "license":  "妆",
+        "spec":  "50g",
+        "price":  520
+    },
+    {
+        "id":  97,
+        "majorCategory":  "肌肤需求",
+        "minorCategory":  "保湿",
+        "name":  "S191保湿赋能精华乳",
+        "license":  "妆",
+        "spec":  "200ml",
+        "price":  800
+    },
+    {
+        "id":  98,
+        "majorCategory":  "肌肤需求",
+        "minorCategory":  "保湿",
+        "name":  "V5保湿舒柔按摩霜",
+        "license":  "妆",
+        "spec":  "500ML",
+        "price":  600
+    },
+    {
+        "id":  99,
+        "majorCategory":  "肌肤需求",
+        "minorCategory":  "卸妆",
+        "name":  "S103水润净颜卸妆油",
+        "license":  "妆",
+        "spec":  "150ml",
+        "price":  320
+    },
+    {
+        "id":  100,
+        "majorCategory":  "肌肤需求",
+        "minorCategory":  "卸妆",
+        "name":  "S113舒缓清润卸妆水",
+        "license":  "妆",
+        "spec":  "150ml",
+        "price":  268
+    },
+    {
+        "id":  101,
+        "majorCategory":  "肌肤需求",
+        "minorCategory":  "卸妆",
+        "name":  "V113清润焕颜卸妆水",
+        "license":  "妆",
+        "spec":  "500ml",
+        "price":  480
+    },
+    {
+        "id":  102,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "玻尿酸系列",
+        "name":  "S103水润净颜卸妆油",
+        "license":  "妆",
+        "spec":  "150ml",
+        "price":  320
+    },
+    {
+        "id":  103,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "玻尿酸系列",
+        "name":  "S113舒缓清润卸妆水",
+        "license":  "妆",
+        "spec":  "150ml",
+        "price":  268
+    },
+    {
+        "id":  104,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "玻尿酸系列",
+        "name":  "V113清润焕颜卸妆水",
+        "license":  "妆",
+        "spec":  "500ml",
+        "price":  480
+    },
+    {
+        "id":  105,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "玻尿酸系列",
+        "name":  "ES18医用透明质酸纳修护液",
+        "license":  "械",
+        "spec":  "50ml",
+        "price":  198
+    },
+    {
+        "id":  106,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "玻尿酸系列",
+        "name":  "ES188医用透明质酸纳修护液",
+        "license":  "械",
+        "spec":  "120ml",
+        "price":  268
+    },
+    {
+        "id":  107,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "玻尿酸系列",
+        "name":  "ES188plus医用透明质酸钠修护液",
+        "license":  "械",
+        "spec":  "300ml",
+        "price":  398
+    },
+    {
+        "id":  108,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "玻尿酸系列",
+        "name":  "S8保湿抗皱喷雾",
+        "license":  "妆",
+        "spec":  "15ml",
+        "price":  198
+    },
+    {
+        "id":  109,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "玻尿酸系列",
+        "name":  "ES1透明质酸钠液体敷料",
+        "license":  "械",
+        "spec":  "30g",
+        "price":  520
+    },
+    {
+        "id":  110,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "玻尿酸系列",
+        "name":  "GS910透明质酸钠液体敷料",
+        "license":  "械",
+        "spec":  "10ml",
+        "price":  268
+    },
+    {
+        "id":  111,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "玻尿酸系列",
+        "name":  "EV101透明质酸钠液体敷料",
+        "license":  "械",
+        "spec":  "100g",
+        "price":  880
+    },
+    {
+        "id":  112,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "玻尿酸系列",
+        "name":  "ES601医用透明质酸钠修护敷料",
+        "license":  "械",
+        "spec":  "100g",
+        "price":  880
+    },
+    {
+        "id":  113,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "玻尿酸系列",
+        "name":  "ES601PLUS医用液体敷料",
+        "license":  "械",
+        "spec":  "500ML",
+        "price":  3280
+    },
+    {
+        "id":  114,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "玻尿酸系列",
+        "name":  "EV101PLUS医用液体敷料",
+        "license":  "械",
+        "spec":  "500ML",
+        "price":  3280
+    },
+    {
+        "id":  115,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "玻尿酸系列",
+        "name":  "K18医用透明质酸钠敷料",
+        "license":  "械",
+        "spec":  "30ml*5",
+        "price":  228
+    },
+    {
+        "id":  116,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "玻尿酸系列",
+        "name":  "EM18医用透明质酸钠修护贴",
+        "license":  "械",
+        "spec":  "30g*5",
+        "price":  198
+    },
+    {
+        "id":  117,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "玻尿酸系列",
+        "name":  "M1舒凉保湿精粹果冻面膜",
+        "license":  "妆",
+        "spec":  "5片/盒",
+        "price":  320
+    },
+    {
+        "id":  118,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "玻尿酸系列",
+        "name":  "M2舒莹靓肤精华面膜",
+        "license":  "妆",
+        "spec":  "5片/盒",
+        "price":  198
+    },
+    {
+        "id":  119,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "玻尿酸系列",
+        "name":  "M6静妍沁肤精华面膜",
+        "license":  "妆",
+        "spec":  "5片/盒",
+        "price":  198
+    },
+    {
+        "id":  120,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "玻尿酸系列",
+        "name":  "M7多肽舒润抗皱颈膜",
+        "license":  "妆",
+        "spec":  "40ml*5片",
+        "price":  198
+    },
+    {
+        "id":  121,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "净亮白系列",
+        "name":  "ES12医用皮肤修护敷料（传明酸精华液）",
+        "license":  "械",
+        "spec":  "30ml",
+        "price":  520
+    },
+    {
+        "id":  122,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "净亮白系列",
+        "name":  "S222美白祛斑精华液",
+        "license":  "妆",
+        "spec":  "30ml",
+        "price":  520
+    },
+    {
+        "id":  123,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "净亮白系列",
+        "name":  "S222s美白祛斑精华液",
+        "license":  "妆",
+        "spec":  "15ml",
+        "price":  268
+    },
+    {
+        "id":  124,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "净亮白系列",
+        "name":  "S9焕亮精华液",
+        "license":  "妆",
+        "spec":  "30ml",
+        "price":  520
+    },
+    {
+        "id":  125,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "净亮白系列",
+        "name":  "GS912医用皮肤护理液（传明酸精华液）",
+        "license":  "械",
+        "spec":  "10ml",
+        "price":  268
+    },
+    {
+        "id":  126,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "净亮白系列",
+        "name":  "EV112医用皮肤护理液（传明酸精华液）",
+        "license":  "械",
+        "spec":  "100ml",
+        "price":  880
+    },
+    {
+        "id":  127,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "净亮白系列",
+        "name":  "S612医用液体敷料（传明酸净颜精华液）",
+        "license":  "械",
+        "spec":  "100ml",
+        "price":  880
+    },
+    {
+        "id":  128,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "净亮白系列",
+        "name":  "ES619医用皮肤护理液（焕采赋活VC精华液）",
+        "license":  "械",
+        "spec":  "100ml",
+        "price":  880
+    },
+    {
+        "id":  129,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "净亮白系列",
+        "name":  "V119焕亮精华液",
+        "license":  "妆",
+        "spec":  "100ml",
+        "price":  880
+    },
+    {
+        "id":  130,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "净亮白系列",
+        "name":  "EV112PLUS医用皮肤护理液（传明酸精华液）",
+        "license":  "械",
+        "spec":  "500ml",
+        "price":  3280
+    },
+    {
+        "id":  131,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "净亮白系列",
+        "name":  "ES612PLUS医用皮肤护理液（传明酸净颜精华液）",
+        "license":  "械",
+        "spec":  "500ml",
+        "price":  3280
+    },
+    {
+        "id":  132,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "净亮白系列",
+        "name":  "S619PlusVC焕采精华液",
+        "license":  "妆",
+        "spec":  "500ml",
+        "price":  3280
+    },
+    {
+        "id":  133,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "多效防护系列",
+        "name":  "ES18医用透明质酸纳修护液",
+        "license":  "械",
+        "spec":  "50ml",
+        "price":  198
+    },
+    {
+        "id":  134,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "多效防护系列",
+        "name":  "ES188医用透明质酸纳修护液",
+        "license":  "械",
+        "spec":  "120ml",
+        "price":  268
+    },
+    {
+        "id":  135,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "多效防护系列",
+        "name":  "ES188plus医用透明质酸钠修护液",
+        "license":  "械",
+        "spec":  "300ml",
+        "price":  398
+    },
+    {
+        "id":  136,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "多效防护系列",
+        "name":  "S6沁舒莹润精粹水",
+        "license":  "妆",
+        "spec":  "120ml",
+        "price":  320
+    },
+    {
+        "id":  137,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "多效防护系列",
+        "name":  "EV6医用液体敷料（保湿舒缓修护水）",
+        "license":  "械",
+        "spec":  "500ml",
+        "price":  600
+    },
+    {
+        "id":  138,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "多效防护系列",
+        "name":  "ES66医用皮肤护理液（褪红舒敏精华液）",
+        "license":  "械",
+        "spec":  "30ml",
+        "price":  520
+    },
+    {
+        "id":  139,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "多效防护系列",
+        "name":  "GS966医用皮肤修护敷料（褪红舒敏精华液）",
+        "license":  "械",
+        "spec":  "15ml",
+        "price":  298
+    },
+    {
+        "id":  140,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "多效防护系列",
+        "name":  "GS906医用皮肤修护敷料（抑痘修护精华液）",
+        "license":  "械",
+        "spec":  "15ml",
+        "price":  298
+    },
+    {
+        "id":  141,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "多效防护系列",
+        "name":  "GS910透明质酸钠液体敷料",
+        "license":  "械",
+        "spec":  "10ml",
+        "price":  268
+    },
+    {
+        "id":  142,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "多效防护系列",
+        "name":  "EV101透明质酸钠液体敷料",
+        "license":  "械",
+        "spec":  "100g",
+        "price":  880
+    },
+    {
+        "id":  143,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "多效防护系列",
+        "name":  "ES666医用液体敷料（褪红舒敏精华液）",
+        "license":  "械",
+        "spec":  "100ml",
+        "price":  880
+    },
+    {
+        "id":  144,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "多效防护系列",
+        "name":  "V102焕颜蕴能精华液",
+        "license":  "妆",
+        "spec":  "100ml",
+        "price":  880
+    },
+    {
+        "id":  145,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "多效防护系列",
+        "name":  "EV101PLUS医用液体敷料",
+        "license":  "械",
+        "spec":  "500ML",
+        "price":  3280
+    },
+    {
+        "id":  146,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "多效防护系列",
+        "name":  "ES181医用皮肤创面敷料",
+        "license":  "械",
+        "spec":  "200g",
+        "price":  880
+    },
+    {
+        "id":  147,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "多效防护系列",
+        "name":  "ES181plus医用皮肤创面敷料",
+        "license":  "械",
+        "spec":  "500g",
+        "price":  1680
+    },
+    {
+        "id":  148,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "多效防护系列",
+        "name":  "ES28医用皮肤创面敷料",
+        "license":  "械",
+        "spec":  "50g",
+        "price":  520
+    },
+    {
+        "id":  149,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "多效防护系列",
+        "name":  "ES928医用重组III型人源化胶原蛋白软膏",
+        "license":  "械",
+        "spec":  "25g",
+        "price":  298
+    },
+    {
+        "id":  150,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "多效防护系列",
+        "name":  "SR68舒润保湿特护霜",
+        "license":  "妆",
+        "spec":  "30g",
+        "price":  398
+    },
+    {
+        "id":  151,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "多效防护系列",
+        "name":  "S32隐形润色隔离霜",
+        "license":  "妆",
+        "spec":  "50g",
+        "price":  520
+    },
+    {
+        "id":  152,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "多效防护系列",
+        "name":  "S32隐形润色隔离霜",
+        "license":  "妆",
+        "spec":  "25g",
+        "price":  328
+    },
+    {
+        "id":  153,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "多效防护系列",
+        "name":  "S62清透莹润隔离乳",
+        "license":  "妆",
+        "spec":  "50g",
+        "price":  520
+    },
+    {
+        "id":  154,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "多效防护系列",
+        "name":  "S62s清透莹润隔离乳",
+        "license":  "妆",
+        "spec":  "25g",
+        "price":  368
+    },
+    {
+        "id":  155,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "活力紧致系列",
+        "name":  "CS8润颜多肽精粹水",
+        "license":  "妆",
+        "spec":  "100ml",
+        "price":  298
+    },
+    {
+        "id":  156,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "活力紧致系列",
+        "name":  "S8保湿抗皱喷雾",
+        "license":  "妆",
+        "spec":  "15ml",
+        "price":  198
+    },
+    {
+        "id":  157,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "活力紧致系列",
+        "name":  "S19焕颜紧致精华喷雾",
+        "license":  "妆",
+        "spec":  "36ml",
+        "price":  688
+    },
+    {
+        "id":  158,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "活力紧致系列",
+        "name":  "ES609医用皮肤护理液（塑颜抗皱精华液）",
+        "license":  "械",
+        "spec":  "100ml",
+        "price":  1280
+    },
+    {
+        "id":  159,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "活力紧致系列",
+        "name":  "V109胶原蛋白紧致精华液",
+        "license":  "妆",
+        "spec":  "100ml",
+        "price":  880
+    },
+    {
+        "id":  160,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "活力紧致系列",
+        "name":  "S609Plus塑颜抗皱精华液",
+        "license":  "妆",
+        "spec":  "500ml",
+        "price":  3280
+    },
+    {
+        "id":  161,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "活力紧致系列",
+        "name":  "S909紧塑弹力菁纯霜",
+        "license":  "妆",
+        "spec":  "50g",
+        "price":  680
+    },
+    {
+        "id":  162,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "活力紧致系列",
+        "name":  "S88抗皱赋活眼霜",
+        "license":  "妆",
+        "spec":  "25g",
+        "price":  520
+    },
+    {
+        "id":  163,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "卸妆净颜水",
+        "name":  "S103水润净颜卸妆油",
+        "license":  "妆",
+        "spec":  "150ml",
+        "price":  320
+    },
+    {
+        "id":  164,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "卸妆净颜水",
+        "name":  "S113舒缓清润卸妆水",
+        "license":  "妆",
+        "spec":  "150ml",
+        "price":  268
+    },
+    {
+        "id":  165,
+        "majorCategory":  "产品系列",
+        "minorCategory":  "卸妆净颜水",
+        "name":  "V113清润焕颜卸妆水",
+        "license":  "妆",
+        "spec":  "500ml",
+        "price":  480
+    }
+]

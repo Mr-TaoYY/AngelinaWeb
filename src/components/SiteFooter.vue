@@ -8,7 +8,7 @@ const goToWeibo = () => {
   window.open('https://weibo.com/u/7337270495', '_blank')
 }
 
-const contactPhone = '400-000-2026'
+const contactPhone = '4000-660-9529'
 const contactWechat = 'test_account'
 </script>
 
@@ -16,7 +16,7 @@ const contactWechat = 'test_account'
   <footer>
     <section class="black-footer">
       <div class="qr-block">
-        <div class="fake-qr"></div>
+        <img class="member-qr" src="/src/assets/member-qr.png" alt="扫码绑定会员卡号">
         <span>扫码绑定会员卡号</span>
       </div>
       <div class="social-block">
@@ -34,9 +34,9 @@ const contactWechat = 'test_account'
       </div>
       <div class="contact-block">
         <p>联系我们</p>
-        <span class="phone-link-desktop">品牌热线：<a :href="`tel:${contactPhone}`">{{ contactPhone }}</a>（周一至周五9:00-18:00）</span>
+        <span class="phone-link-desktop">品牌热线：<a :href="`tel:${contactPhone}`">{{ contactPhone }}</a>（周一至周五9:00-17:30）</span>
         <span class="phone-link-mobile">品牌热线：{{ contactPhone }}</span>
-        <span>咨询热线：400-000-0811（周一至周五9:00-18:00）</span>
+        <span>咨询热线：4000-660-9529（周一至周五9:00-17:30）</span>
         <span>公司地址：上海市静安区示例路 1601 号</span>
       </div>
     </section>

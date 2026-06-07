@@ -3,7 +3,7 @@ import { computed, ref } from 'vue'
 import { helpCenterData } from '../data/siteData'
 
 const activeId = ref(helpCenterData[0].id)
-const openQuestion = ref('1')
+const openQuestion = ref(helpCenterData[0].children[0].id)
 
 const active = computed(() => helpCenterData.find((item) => item.id === activeId.value))
 </script>
@@ -35,9 +35,6 @@ const active = computed(() => helpCenterData.find((item) => item.id === activeId
           </div>
         </section>
       </div>
-      <a v-else-if="active.type === 'pageto'" :href="active.href" target="_blank" class="external-link">
-        打开测试外链
-      </a>
       <p v-else>{{ active.description }}</p>
     </article>
   </section>
