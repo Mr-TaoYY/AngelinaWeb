@@ -143,8 +143,30 @@ a {
   background: #111;
 }
 
+.visual-image {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.visual-image-mobile {
+  display: none;
+}
+
+.visual-image-tablet {
+  display: none;
+}
+
 .visual-panel.compact {
   min-height: 420px;
+}
+
+/* 品牌故事页：区块全屏高度，避免底部露出暗色背景 */
+.brand-story-page .visual-panel,
+.brand-story-page .video-stage {
+  min-height: 100vh;
 }
 
 .theme-black {
@@ -596,13 +618,24 @@ a {
 }
 
 .product-card {
-  min-height: 510px;
   display: flex;
   flex-direction: column;
-  border: 1px solid #e1e1e1;
+  border: 0px solid #e1e1e1;
   border-radius: 4px;
   background: #fff;
   overflow: hidden;
+  text-decoration: none;
+  color: inherit;
+}
+
+.product-card.clickable {
+  cursor: pointer;
+  transition: box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.product-card.clickable:hover {
+  border-color: #c9a96e;
+  box-shadow: 0 6px 20px rgba(201, 169, 110, 0.18);
 }
 
 .product-card-image {
@@ -742,37 +775,6 @@ a {
 .channel-grid span {
   color: #777;
   margin-bottom: 10px;
-}
-
-.store-query {
-  margin-top: 56px;
-  padding: 32px;
-  background: #f6f6f6;
-}
-
-.store-query h2 {
-  margin: 0 0 18px;
-  font-weight: 300;
-}
-
-.store-query div {
-  display: grid;
-  grid-template-columns: 180px 1fr 150px;
-  gap: 12px;
-}
-
-.store-query select,
-.store-query input,
-.store-query button {
-  min-height: 48px;
-  border: 1px solid #ddd;
-  background: #fff;
-  padding: 0 14px;
-}
-
-.store-query button {
-  color: #fff;
-  background: #333;
 }
 
 .help-page {
@@ -1042,6 +1044,20 @@ a {
 }
 
 @media (max-width: 1024px) and (min-width: 640px) {
+  .visual-image-pc {
+    object-fit: contain;
+    object-position: center center;
+  }
+
+  .has-image-tablet .visual-image-tablet {
+    display: block;
+    object-fit: cover;
+  }
+
+  .has-image-tablet .visual-image-pc {
+    display: none;
+  }
+
   .desktop-header {
     padding-left: 90px;
   }
@@ -1074,6 +1090,14 @@ a {
 }
 
 @media (max-width: 639px) {
+  .visual-image-pc {
+    display: none;
+  }
+
+  .visual-image-mobile {
+    display: block;
+  }
+
   .page-main {
     min-height: calc(100vh - 225px);
   }
@@ -1323,8 +1347,7 @@ a {
   .hotspot-grid,
   .channel-grid,
   .product-grid,
-  .help-page,
-  .store-query div {
+  .help-page {
     grid-template-columns: 1fr;
   }
 

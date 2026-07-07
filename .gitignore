@@ -5,3 +5,9 @@ dist/
 *.log
 .env
 .env.*
+.trae/
+*.tar.gz
+*.cmd
+.tmp_*
+.deploy_*.py
+.check_*.py

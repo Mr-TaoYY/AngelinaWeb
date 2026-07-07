@@ -1,3 +1,6 @@
+import swiper1Pc from '../assets/swiper-1-pc.png'
+import swiper1Mobile from '../assets/swiper-1-mobile.jpg'
+
 export const navList = [
   { id: 'home', title: '首页', url: '/' },
   { id: 'products', title: '产品中心', url: '/products' },
@@ -23,12 +26,12 @@ export const routeTitles = {
 }
 
 export const homeSwiper = [
-  { id: '1', title: '卓效修护系列', subtitle: '测试主视觉 01', theme: 'black', href: '' },
-  { id: '2', title: '鎏光焕亮系列', subtitle: '测试主视觉 02', theme: 'gold', href: '' },
-  { id: '3', title: '全明星产品礼遇', subtitle: '测试主视觉 03', theme: 'ruby', href: '/home/activity' },
-  { id: '4', title: '绿晶生命力系列', subtitle: '测试主视觉 04', theme: 'green', href: '' },
-  { id: '5', title: '高光瓶系列', subtitle: '测试主视觉 05', theme: 'silver', href: '' },
-  { id: '6', title: '眼周密集护理', subtitle: '测试主视觉 06', theme: 'midnight', href: '' },
+  { id: '1', title: '卓效修护系列', subtitle: '测试主视觉 01', theme: 'black', href: '', imagePc: swiper1Pc, imageMobile: swiper1Mobile },
+  { id: '2', title: '鎏光焕亮系列', subtitle: '测试主视觉 02', theme: 'gold', href: '', imagePc: swiper1Pc, imageMobile: swiper1Mobile },
+  { id: '3', title: '全明星产品礼遇', subtitle: '测试主视觉 03', theme: 'ruby', href: '/home/activity', imagePc: swiper1Pc, imageMobile: swiper1Mobile },
+  { id: '4', title: '绿晶生命力系列', subtitle: '测试主视觉 04', theme: 'green', href: '', imagePc: swiper1Pc, imageMobile: swiper1Mobile },
+  { id: '5', title: '高光瓶系列', subtitle: '测试主视觉 05', theme: 'silver', href: '', imagePc: swiper1Pc, imageMobile: swiper1Mobile },
+  { id: '6', title: '眼周密集护理', subtitle: '测试主视觉 06', theme: 'midnight', href: '', imagePc: swiper1Pc, imageMobile: swiper1Mobile },
 ]
 
 export const activityBlocks = [
@@ -46,28 +49,6 @@ export const brandStory = [
   { id: 'story3', type: 'image', title: '实验室灵感', subtitle: '配方、功效与肌肤研究', theme: 'silver' },
   { id: 'story4', type: 'image', title: '品牌历史', subtitle: '点击进入时间线页面', theme: 'gold', href: '/history' },
   { id: 'story5', type: 'image', title: '护肤仪式', subtitle: '测试长图内容区', theme: 'midnight' },
-  {
-    id: 'story6',
-    type: 'split',
-    title: '两大系列入口',
-    subtitle: '左右热点区域',
-    theme: 'green',
-    leftHref: '/brandStory/classify?id=intervene',
-    rightHref: '/brandStory/classify?id=aquarius',
-    leftLabel: '干预式系列',
-    rightLabel: '绿晶系列',
-  },
-  {
-    id: 'story7',
-    type: 'split',
-    title: '进阶系列入口',
-    subtitle: '左右热点区域',
-    theme: 'pearl',
-    leftHref: '/brandStory/classify?id=highlight',
-    rightHref: '/brandStory/classify?id=pearl',
-    leftLabel: '高光系列',
-    rightLabel: '黑珍珠系列',
-  },
 ]
 
 export const historyBlocks = [

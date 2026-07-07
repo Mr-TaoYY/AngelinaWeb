@@ -8,7 +8,7 @@ const goToWeibo = () => {
   window.open('https://weibo.com/u/7337270495', '_blank')
 }
 
-const contactPhone = '4000-660-9529'
+const contactPhone = '400-666-0385'
 const contactWechat = 'test_account'
 </script>
 
@@ -34,9 +34,9 @@ const contactWechat = 'test_account'
       </div>
       <div class="contact-block">
         <p>联系我们</p>
-        <span class="phone-link-desktop">品牌热线：<a :href="`tel:${contactPhone}`">{{ contactPhone }}</a>（周一至周五9:00-17:30）</span>
+        <span class="phone-link-desktop">品牌热线：{{ contactPhone }}（周一至周五9:00-17:30）</span>
         <span class="phone-link-mobile">品牌热线：{{ contactPhone }}</span>
-        <span>咨询热线：4000-660-9529（周一至周五9:00-17:30）</span>
+        <span>咨询热线：400-666-0385（周一至周五9:00-17:30）</span>
         <span>公司地址：上海市静安区示例路 1601 号</span>
       </div>
     </section>

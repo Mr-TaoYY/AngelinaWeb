@@ -1,6 +1,5 @@
 <script setup>
 import { computed, onBeforeUnmount, onMounted, ref } from 'vue'
-import { RouterLink } from 'vue-router'
 import VisualPanel from './VisualPanel.vue'
 
 const props = defineProps({
@@ -34,10 +33,7 @@ onBeforeUnmount(() => {
 
 <template>
   <section class="hero-swiper">
-    <RouterLink v-if="current.href" :to="current.href" class="hero-slide-link">
-      <VisualPanel :title="current.title" :subtitle="current.subtitle" :theme="current.theme" />
-    </RouterLink>
-    <VisualPanel v-else :title="current.title" :subtitle="current.subtitle" :theme="current.theme" />
+    <VisualPanel :image-pc="current.imagePc" :image-tablet="current.imageTablet" :image-mobile="current.imageMobile" />
 
     <button class="swiper-arrow prev" type="button" aria-label="上一张" @click="prev">‹</button>
     <button class="swiper-arrow next" type="button" aria-label="下一张" @click="next">›</button>

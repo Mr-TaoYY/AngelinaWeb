@@ -1,5 +1,19 @@
 <script setup>
-import { channelList } from '../data/siteData'
+import { onMounted, ref } from 'vue'
+import { getChannelList } from '../api/channels.js'
+
+const channelList = ref([])
+
+onMounted(async () => {
+  try {
+    const res = await getChannelList()
+    if (res.code === 0) {
+      channelList.value = res.data
+    }
+  } catch (e) {
+    console.error('加载渠道数据失败', e)
+  }
+})
 </script>
 
 <template>
@@ -20,19 +34,6 @@ import { channelList } from '../data/siteData'
         <span>{{ channel.store }}</span>
         <strong>{{ channel.title }}</strong>
       </a>
-    </div>
-
-    <div class="store-query">
-      <h2>线下柜台查询</h2>
-      <div>
-        <select aria-label="选择城市">
-          <option>上海</option>
-          <option>北京</option>
-          <option>广州</option>
-        </select>
-        <input type="text" placeholder="输入商圈或地址" />
-        <button type="button">查询</button>
-      </div>
     </div>
   </section>
 </template>
