@@ -11,3 +11,8 @@ dist/
 .tmp_*
 .deploy_*.py
 .check_*.py
+server/data.db*
+server/uploads/
+*.db
+*.db-shm
+*.db-wal
